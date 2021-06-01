@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Yashwant</h1>
 <h3 align="center">I'm a frontend developer.</h3>
 
-<p align="left"> <a href="https://twitter.com/@yashwan78577271" target="blank"><img src="https://img.shields.io/twitter/follow/@yashwan78577271?logo=twitter&style=for-the-badge" alt="@yashwan78577271" /></a> </p>
 
 - 🔭 I’m currently working on [ChatApp](https://letstalkinroom.netlify.app/)
 
