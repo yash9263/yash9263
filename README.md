@@ -22,7 +22,7 @@ I like taking design inspirations and building full fledge websites out of it.
 </details>
 <hr>
 <p align='center'>
-    <i align="center">Let's Have coffee.</i>
+    <i align="center">Let's Have a cup of coffee.</i>
 </p>
 <p align='center'>
 <a href='https://www.instagram.com/yashwant0098/'><img src='https://raw.githubusercontent.com/yash9263/yash9263/master/icons/instagram-fill.svg' alt='Instagram'></a>
