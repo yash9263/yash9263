@@ -13,7 +13,7 @@ I like taking design inspirations and building full fledge websites out of it.
 - 🛠 I also want to get my hands into **Backend.**
 
 <details>
-<summary>Some fun facts about me 😅</summary>
+<summary>Some fun facts about me 😅 -</summary>
 
 - I like playing narrative driven video games.
 - Loves to travel, Ping me we can go wherever you want.
