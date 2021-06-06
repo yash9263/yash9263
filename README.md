@@ -1,4 +1,4 @@
-<img src='./resources/headerBanner.svg'>
+<img src='https://raw.githubusercontent.com/yash9263/yash9263/master/resources/headerbanner.svg'>
 
 - 🔭 I’m currently working on [ChatApp](https://letstalkinroom.netlify.app/)
 
