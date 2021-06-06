@@ -1,26 +1,35 @@
 <img src='https://raw.githubusercontent.com/yash9263/yash9263/master/resources/headerbanner.svg'>
 
-- 🔭 I’m currently working on [ChatApp](https://letstalkinroom.netlify.app/)
+I like taking design inspirations and building full fledge websites out of it.
 
-- 🌱 I’m currently learning **React, Javascript and many more frontend technologies.**
+- 🔭 I’m currently working on my projects [ChatApp](https://letstalkinroom.netlify.app/), [Snapshot](https://snapshotgram.netlify.app/).
 
-- 👨‍💻 All of my projects are available at [portfolio.](https://yashwantportfolio.netlify.app/index.html)
+- 🌱 I’m currently learning and diving deep into **React, Javascript**.
 
-- 📝 I regularly write articles on [hashnode.](https://yashwant.hashnode.dev/)
+- 📝 I write my dev blogs on **[hashnode.](https://yashwant.hashnode.dev/)**
 
-- 💬 Ask me about **react, javascript and css.**
+- 💬 Would love to work on projects including not limited to **react, javascript and css**.
 
-- 📫 How to reach me **yashwant8530@gmail.com**
+- 🛠 I also want to get my hands into **Backend**
 
-- ⚡ Fun fact **I love to play single player narrative driven video games.**
+<details>
+<summary>Some fun facts about me 😅</summary>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/@yashwan78577271" target="blank"><img align="center" src="http://i.imgur.com/tXSoThF.png" alt="@yashwan78577271" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/yashwant-sharma-3aa159193" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/linked-in-alt.svg" alt="yashwant-sharma-3aa159193" height="30" width="40" /></a>
-<a href="https://instagram.com/yashwant0098" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/instagram.svg" alt="yashwant0098" height="30" width="40" /></a>
+- I like playing narrative driven video games.
+- I spare my free time watching friends .
+- Loves to travel just tell me we can go wherever you want.
+
+</details>
+<hr>
+<p align='center'>
+    <i align="center">Let's Have a coffee.</i>
 </p>
+<p align='center'>
+<a href='https://www.instagram.com/yashwant0098/'><img src='./icons/instagram-fill.svg' alt='Instagram'></a>
+<a href='https://www.linkedin.com/in/yashwant-sharma-3aa159193/'><img src='./icons/linkedin-fill.svg' alt='LinkedIn'></a>
+<a href='mailto:yashwant8530@gmail.com'><img src='./icons/mail-fill.svg' alt='Mail'></a>
+<a href='https://twitter.com/yashwant0098'><img src='./icons/twitter-fill.svg' alt='Twitter'></a>
+</p>
+<br>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> </p>
 <footer><img src='./resources/footerBanner.svg'></footer>
