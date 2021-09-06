@@ -2,7 +2,9 @@
 
 I like taking design inspirations and building full fledge websites out of it.
 
-- 🔭 Working on my projects [ChatApp](https://letstalkinroom.netlify.app/), [Snapshot](https://snapshotgram.netlify.app/).
+- 🧑‍💻 Full stack developer at [Fullness](https://www.fullness.io/)
+
+- 🔭 Working on my personal projects [ChatApp](https://letstalkinroom.netlify.app/), [Snapshot](https://snapshotgram.netlify.app/).
 
 - 🌱 I’m currently learning and diving deep into **[React](https://reactjs.org/docs/hello-world.html) and Javascript**.
 
