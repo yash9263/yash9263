@@ -2,7 +2,7 @@
 
 I like taking design inspirations and building full fledge websites out of it.
 
-- 🧑‍💻 Full stack developer at Fullness [Ratecity](https://https://www.ratecity.com.au/)
+- 🧑‍💻 Full stack developer at Fullness [Ratecity](https://www.ratecity.com.au/)
 
 - 🔭 Working on my personal projects [ChatApp](https://letstalkinroom.netlify.app/), [Snapshot](https://snapshotgram.netlify.app/).
 
