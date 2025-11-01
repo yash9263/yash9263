@@ -1,1 +1,1 @@
-- 🧑‍💻 Full stack developer at [Ratecity](https://www.ratecity.com.au/)
+🧑‍💻 [yashwant.dev](https://yashwant.dev)
